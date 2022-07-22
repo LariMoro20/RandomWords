@@ -18,6 +18,10 @@
         adivinhar qual é a palavra sorteada sem que o jogador fale ou a escreva.
         Ganha quem fizer mais pontos e atinjir uma determinada pontuação.
       </p>
+      <p>
+        Esta aplicação irá constantemente atualizar sua lista de palavras, afim
+        de melhorar sua experiência.
+      </p>
     </div>
   </q-page>
 </template>
