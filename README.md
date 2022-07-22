@@ -43,5 +43,6 @@ quasar serve
   - https://www.ufrgs.br/tesauros/index.php/thesa/terms_from_to/1/json
 
 - Site inspirado no https://www.palabrasaleatorias.com/palavras-aleatorias.php
+- Remix Icon -> https://remixicon.com/
 
 Made with :heart: by [Larissa Santos](https://larissa-santos.vercel.app/)
