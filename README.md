@@ -39,6 +39,7 @@ quasar serve
   - https://www.conjugacao.com.br/verbos-populares/
   - https://www.dicio.com.br/frutas-de-a-a-z
   - https://www.dicio.com.br/alimentos/
+  - https://www.dicio.com.br/objetos-de-a-a-z/
   - https://www.ufrgs.br/tesauros/index.php/thesa/terms_from_to/1/json
 
 - Site inspirado no https://www.palabrasaleatorias.com/palavras-aleatorias.php
