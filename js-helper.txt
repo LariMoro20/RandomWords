@@ -1,19 +1,20 @@
 
 //Remover duplicados
- uniqueArray1 = abc.filter(function(item, pos, self) {
+ uniqueArray = meuArray.filter(function(item, pos, self) {
     return self.indexOf(item) == pos;
 })
 
 // quebrar por espaço
-abc = "maçaneta maçarico machado maiô mala mamadeira manequim mangueira manivela maquete máquina marimba marreta martelo máscara medalha megafone meia miçanga microfone microscópio míssil mochila modem mola monitor monóculo mosquiteiro motor mouse "
-abc.split(" ")
+minhaString = "maçaneta maçarico machado maiô mala mamadeira manequim mangueira manivela maquete máquina marimba marreta martelo máscara medalha megafone meia miçanga microfone microscópio míssil mochila modem mola monitor monóculo mosquiteiro motor mouse "
+minhaString.split(" ")
 
 
 // Array cm a mesma key-value (https://www.ufrgs.br/tesauros/index.php/thesa/terms_from_to/1/json)
-vart = []
-Object.values(arr).forEach((v)=>{
+arrFim = []
+Object.values(meuArray).forEach((v)=>{
   Object.values(v).forEach((e)=>{
     if(e)
-    vart.push(e)
+    arrFim.push(e)
   })
 })
+
