@@ -1,6 +1,6 @@
 <template>
   <q-page class="q-pa-md column fit container">
-    <div class="flex flex-center q-ma-lg">
+    <div class="flex flex-center">
       <div class="text-center">
         <div class="text-h2 text-center q-mb-lg text-capitalize">
           {{ word }}
@@ -8,7 +8,7 @@
         <q-btn color="primary" @click="getWord" label="Nova palavra" /><br />
       </div>
     </div>
-    <div class="flex flex-center q-ma-lg">
+    <div class="flex flex-center q-mt-xl">
       <p>
         Sejam bem vindos ao RW! Aqui sortearemos para você e seus amigos uma
         palavra que desafiará vocês no jogo que escolherem. <br />
@@ -22,6 +22,17 @@
         Esta aplicação irá constantemente atualizar sua lista de palavras, afim
         de melhorar sua experiência.
       </p>
+    </div>
+    <q-separator />
+    <div class="q-mt-lg flex items-center justify-center text-center">
+      <a
+        class="social__item text-black"
+        href="https://github.com/LariMoro20/RandomWords"
+        aria-label="GitHub"
+        target="_blank"
+      >
+        <i class="ri-github-fill"></i>
+      </a>
     </div>
   </q-page>
 </template>
@@ -47,3 +58,11 @@ export default defineComponent({
   },
 });
 </script>
+<style scoped>
+.social__item {
+  text-decoration: none;
+}
+.social__item i {
+  font-size: 70px;
+}
+</style>
