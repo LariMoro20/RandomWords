@@ -1,35 +1,44 @@
 # Random Words (random-words)
 
-## Install the dependencies
+Site gerador de palavras aleatórias, para brincadeiras como adivinhar o desenho
+Para visualizar a aplicação: https://random-words-larisantos.vercel.app/
+
+![imagem](https://github.com/LariMoro20/RandomWords/blob/main/ramdom.png)
+
+## Tecnologias :books:
+
+- Vue 3 -> https://vuejs.org/
+- Quasar framework -> https://quasar.dev/
+
+## Instalação :hammer:
 
 ```bash
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Rodar a aplicação ambiente DEV:
 
 ```bash
 quasar dev
 ```
 
-### Lint the files
-
-```bash
-npm run lint
-```
-
-### Format the files
-
-```bash
-npm run format
-```
-
-### Build the app for production
+### Build da aplicação em SPA
 
 ```bash
 quasar build
+cd dist/spa
+quasar serve
 ```
 
-### Customize the configuration
+## Artes e conteúdos :star:
 
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+- Logotipo criado no Figma
+- Listas de palavras:
+
+  - https://www.conjugacao.com.br/verbos-populares/
+  - https://www.dicio.com.br/alimentos/
+  - https://www.ufrgs.br/tesauros/index.php/thesa/terms_from_to/1/json
+
+- Site inspirado no https://www.palabrasaleatorias.com/palavras-aleatorias.php
+
+Made with :heart: by [Larissa Santos](https://larissa-santos.vercel.app/)
