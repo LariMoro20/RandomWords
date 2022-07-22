@@ -1,6 +1,7 @@
 # Random Words (random-words)
 
-Site gerador de palavras aleatórias, para brincadeiras como adivinhar o desenho
+Site gerador de palavras aleatórias, para brincadeiras como adivinhar o desenho.
+
 Para visualizar a aplicação: https://random-words-larisantos.vercel.app/
 
 ![imagem](https://github.com/LariMoro20/RandomWords/blob/main/ramdom.png)
