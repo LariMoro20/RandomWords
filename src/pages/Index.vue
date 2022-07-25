@@ -12,11 +12,14 @@
       <p>
         Sejam bem vindos ao RW! Aqui sortearemos para você e seus amigos uma
         palavra que desafiará vocês no jogo que escolherem. <br />
-        <b>Dica de jogo:</b>
+        <b>Dica de jogo: Pictionary</b>
         Cada jogador na sua vez sorteia uma palavra e, sem que os demais saibam
         qual é, desenha em um papel ou quadro. Os outros jogadores devem
         adivinhar qual é a palavra sorteada sem que o jogador fale ou a escreva.
-        Ganha quem fizer mais pontos e atinjir uma determinada pontuação.
+        Ganha quem fizer mais pontos e atinjir uma determinada pontuação. <br />
+        O jogo pode até mesmo ser em equipes, onde um integrante por vez desenha
+        e os demais precisam acertar em uma quantidade de tempo definida. Ganha
+        a equipe que mais fizer pontos.
       </p>
       <p>
         Esta aplicação irá constantemente atualizar sua lista de palavras, afim
