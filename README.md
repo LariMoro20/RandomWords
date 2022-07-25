@@ -41,6 +41,8 @@ quasar serve
   - https://www.dicio.com.br/alimentos/
   - https://www.dicio.com.br/objetos-de-a-a-z/
   - https://www.ufrgs.br/tesauros/index.php/thesa/terms_from_to/1/json
+  - https://gov-civil-viana.pt/107-best-pictionary-word-ideas
+  - https://tempolivre.umcomo.com.br/artigo/100-palavras-para-mimica-de-todos-os-niveis-e-estilos-29088.html
 
 - Site inspirado no https://www.palabrasaleatorias.com/palavras-aleatorias.php
 - Remix Icon -> https://remixicon.com/
