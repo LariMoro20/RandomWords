@@ -6,12 +6,12 @@ Para visualizar a aplicação: https://random-words-larisantos.vercel.app/
 
 ![imagem](https://github.com/LariMoro20/RandomWords/blob/main/ramdom.png)
 
-## Tecnologias :books:
+## :books: Tecnologias
 
 - Vue 3 -> https://vuejs.org/
 - Quasar framework -> https://quasar.dev/
 
-## Instalação :hammer:
+## :hammer: Instalação
 
 ```bash
 npm install
@@ -31,7 +31,7 @@ cd dist/spa
 quasar serve
 ```
 
-## Artes e conteúdos :star:
+## :star: Artes e conteúdos
 
 - Logotipo criado no Figma
 - Listas de palavras:
@@ -47,7 +47,7 @@ quasar serve
 - Site inspirado no https://www.palabrasaleatorias.com/palavras-aleatorias.php
 - Remix Icon -> https://remixicon.com/
 
-## Licença :page_with_curl:
+## :clipboard: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
