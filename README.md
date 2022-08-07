@@ -47,4 +47,8 @@ quasar serve
 - Site inspirado no https://www.palabrasaleatorias.com/palavras-aleatorias.php
 - Remix Icon -> https://remixicon.com/
 
+## Licença :page_with_curl:
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 Made with :heart: by [Larissa Santos](https://larissa-santos.vercel.app/)
