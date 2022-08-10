@@ -1,5 +1,5 @@
 <template>
-  <q-page class="q-pa-md column fit container">
+  <q-page class="q-pa-md column bg-white fit container">
     <div class="flex flex-center">
       <div class="text-center">
         <div class="text-h2 text-center q-mb-lg text-capitalize">
