@@ -1,6 +1,6 @@
 <template>
   <q-layout>
-    <q-page-container>
+    <q-page-container class="bg-white">
       <Header />
       <router-view />
       <Footer />
