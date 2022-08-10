@@ -4,6 +4,9 @@ $sm-breakpoint: 1024px;
 $md-breakpoint: 1439px;
 $lg-breakpoint: 1920px;
 
+body {
+  background-color: black;
+}
 .container,
 .container-sm,
 .container-md,
